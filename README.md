@@ -4,8 +4,8 @@ Witamy w repozytorium testowym projektu **[MapaBeskidu.pl](https://mapabeskidu.p
 Ten kod operuje całkowicie poza serwerem OVH i ma za zadanie z zewnątrz monitorować stan strony internetowej, wydajność (Lighthouse) oraz wczesne wykrywanie awarii.
 
 ### Bieżący stan:
-* **Uptime (Dostępność):** [![Uptime Monitor](https://github.com/Wladislao1/-MapaBe-Status/actions/workflows/uptime.yml/badge.svg)](https://github.com/Wladislao1/-MapaBe-Status/actions/workflows/uptime.yml)
-* **Lighthouse (Wydajność):** [![Lighthouse CI](https://github.com/Wladislao1/-MapaBe-Status/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/Wladislao1/-MapaBe-Status/actions/workflows/lighthouse.yml)
+* **Uptime (Dostępność):** [![Uptime Monitor](https://github.com/MapaBeskidu-pl/MapaBeskidu-Status/actions/workflows/uptime.yml/badge.svg)](https://github.com/MapaBeskidu-pl/MapaBeskidu-Status/actions/workflows/uptime.yml)
+* **Lighthouse (Wydajność):** [![Lighthouse CI](https://github.com/MapaBeskidu-pl/MapaBeskidu-Status/actions/workflows/lighthouse.yml/badge.svg)](https://github.com/MapaBeskidu-pl/MapaBeskidu-Status/actions/workflows/lighthouse.yml)
 
 ## Jak to działa?
 1. **Uptime Monitor**: GitHub sprawdza adres `mapabeskidu.pl` co 30 minut. Jeśli strona zwróci błąd, plakietka u góry zaświeci się na czerwono.
