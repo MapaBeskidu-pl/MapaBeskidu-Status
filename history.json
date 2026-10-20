@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-10-20T05:22:31.858Z",
+  "lastUpdate": "2026-10-20T10:18:57.248Z",
   "endpoints": {
     "frontend": {
       "name": "Mapa Beskidu (Frontend)",
@@ -1688,6 +1688,12 @@
           "timestamp": "2026-10-20T05:22:31.858Z",
           "status": 200,
           "time": 601,
+          "success": true
+        },
+        {
+          "timestamp": "2026-10-20T10:18:57.248Z",
+          "status": 200,
+          "time": 769,
           "success": true
         }
       ]
@@ -3380,6 +3386,12 @@
           "status": 404,
           "time": 436,
           "success": false
+        },
+        {
+          "timestamp": "2026-10-20T10:18:57.248Z",
+          "status": 404,
+          "time": 441,
+          "success": false
         }
       ]
     },
@@ -5070,6 +5082,12 @@
           "timestamp": "2026-10-20T05:22:31.858Z",
           "status": 404,
           "time": 870,
+          "success": false
+        },
+        {
+          "timestamp": "2026-10-20T10:18:57.248Z",
+          "status": 404,
+          "time": 1108,
           "success": false
         }
       ]
